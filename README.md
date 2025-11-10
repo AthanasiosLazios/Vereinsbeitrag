@@ -56,9 +56,16 @@ Dieses Projekt übt:
 - Eingabevalidierung über Schleifen
 - sinnvolle Programmstruktur
 - einfache Entscheidungslogik
+- Vereinheitlichung von Nutzereingaben durch `.ToLower()`
 
 ---
 
 ## Status
 
 Das Programm ist funktionsfähig und kann später um weitere Kriterien erweitert werden.
+
+---
+
+## Hinweis
+
+Dieses Projekt entstand als Übungsaufgabe im Rahmen des Wirtschaftsinformatik-Studiums an der TH Nürnberg.
